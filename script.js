@@ -1,4 +1,4 @@
-d3.select('head').append('title').text('Scatterplot')
+d3.select('head').append('title').text('ScatterPlot')
 d3.json('data.json', function (data) {
 // CSV section
   data.keys.shift() // remove the variable value
@@ -79,7 +79,7 @@ d3.json('data.json', function (data) {
       .attr('r','5')
       .attr('stroke','black')
       .attr('stroke-width',0.5)
-      .attr('fill',function (d,i) { return colorScale(i) })
+      .attr('fill', 'LightGreen'/* function (d,i) { return colorScale(i) }*/)
       .on('mouseover', function () {
         d3.select(this)
           .transition()

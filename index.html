@@ -10,13 +10,14 @@
 
     <link rel='stylesheet' href='style.css'>
   </head>
+
   <body>
 
-    <script type='text/javascript' src='script.js'></script>
-    <script type='text/javascript' src='chernoff.js'></script>
+    <script type='text/javascript' src='script.js' style="position: relative ; width: 400px; height: 600px"></script>
 
     <div id="container" style="position: relative; width: 400px; height: 600px; float: left"></div>
-    <script>
+
+   <script>
         var map = new Datamap({
           element: document.getElementById('container'),
           geographyConfig: {
@@ -34,8 +35,9 @@
                           }
 
         });
-
-
     </script>
+
+    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.js?2.3.0"></script>
+    <script type='text/javascript' src='chernoff.js'></script>
   </body>
 </html>
