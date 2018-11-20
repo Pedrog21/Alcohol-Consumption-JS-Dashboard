@@ -1,0 +1,10792 @@
+{
+  "keys" : [
+    "variable",
+		"Grades",
+		"Sport",
+		"Alcohol",
+		"Starting Age",
+		"Gdp"
+	],
+	"values" : [
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 5,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 5,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 4,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 5,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 1,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 4,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 1,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 4,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 5,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 4,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 5,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 5,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 5,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 5,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 4,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 4,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 5,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 5,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 3,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 1,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 15
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 4,
+    "Starting Age": 2,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 2,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 5,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 5,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 3,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 5,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 5,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 2,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 4,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 2,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 3,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 11,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 2,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 1,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 2,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 5,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 24
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 24
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 1,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 11,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 1,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 5,
+    "Starting Age": 1,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 5,
+    "Starting Age": 1,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 4,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 2,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 1,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 4,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 2,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 1,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 1,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 1,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 2,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 3,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 3,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 1,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 4,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 3,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 2,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 2,
+    "Starting Age": 5,
+    "Gdp": 17
+  },
+  {
+    "Grades": 2,
+    "Sport": 4,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 17
+  },
+  {
+    "Grades": 3,
+    "Sport": 3,
+    "Alcohol": 1,
+    "Starting Age": 4,
+    "Gdp": 24
+  }
+]
+}
