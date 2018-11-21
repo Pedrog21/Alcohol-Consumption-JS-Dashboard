@@ -2,8 +2,8 @@
 //setup svg canvas
 d3.select("body")
     .append("svg:svg")
-        .attr("width", 260)
-        .attr("height", 250)
+        .attr("width", 400)
+        .attr("height", 200)
         .attr("id", "charts")
         .on("click", clickypie)
         .append("svg:rect")
@@ -29,16 +29,17 @@ function face_factory(classname, data, x, y)
             .attr("class", classname)
             .attr("transform", "translate(" + x + "," + y + ")");
 
+
     console.log("make head");
-    /* var head_color = d3.scale.linear()
+    var head_color = d3.scale.linear()
         .domain([0, 1])
         .interpolate(d3.interpolateRgb)
-        .range(["#ff0000", "#0000ff"]); */ /*Pôr as cores a mudar nas caras*/
+        .range(["#ff0000", "#0000ff"]); /*Pôr as cores a mudar nas caras*/
 
 
     var head = face.append("svg:circle")
             .attr("class", "head")
-            .attr("fill", 'steelblue'/* function(d){ return head_color(data.x); }*/)
+            .attr("fill", function(d){ return head_color(data.x); })
             .attr("fill-opacity", .8)
             .attr("stroke", "#000")
             .attr("stroke-width", 4)
@@ -96,6 +97,7 @@ function face_factory(classname, data, x, y)
         .attr("transform", "translate(" + [r/2.5, -r/3] + ")")
         .attr("r", eyer);
 
+        d3.select(face).remove();
 
 }
 
@@ -106,16 +108,40 @@ function clickypie()
     count += 1;
 
     var svg = d3.select("svg");
-    var xy; //Tentar gerar um valor xy dentro da função de baixo para ser usado em cima.
+    var xy;
 
     svg.on("click", function() {
-        d3.mouse(this)
+        xy = d3.mouse(this)
+        var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
+        face_factory("face"+count, data, 100, 100)
     })
 
-    console.log('lol', xy)
     //var r = 20 + Math.random() * 50;
     //var r = 70;
     //var data = d3.range(10).map(Math.random)
-    var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() };
-    face_factory("face"+count, data, xy[0], xy[1]);
+    /*var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() };
+    face_factory("face"+count, data, xy[0], xy[1]);*/
+};
+
+
+
+count = 0
+function clickypie2()
+{
+    count += 1;
+
+    var svg = d3.select("svg");
+    var xy;
+
+    svg.on("click", function() {
+        xy = d3.mouse(this)
+        var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
+        face_factory("face"+count, data, 300, 100);
+    })
+
+    //var r = 20 + Math.random() * 50;
+    //var r = 70;
+    //var data = d3.range(10).map(Math.random)
+    /*var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() };
+    face_factory("face"+count, data, xy[0], xy[1]);*/
 };
