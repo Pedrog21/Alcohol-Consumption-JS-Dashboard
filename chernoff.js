@@ -5,7 +5,7 @@ d3.select("body")
         .attr("width", 400)
         .attr("height", 200)
         .attr("id", "charts")
-        .on("click", clickypie)
+        //.on("click", clickypie)
         .append("svg:rect")
             .attr("width", "100%")
             .attr("height", "100%")
@@ -97,11 +97,11 @@ function face_factory(classname, data, x, y)
         .attr("transform", "translate(" + [r/2.5, -r/3] + ")")
         .attr("r", eyer);
 
-        d3.select(face).remove();
+
 
 }
 
-
+var toggleSelected = true;
 count = 0
 function clickypie()
 {
@@ -110,22 +110,36 @@ function clickypie()
     var svg = d3.select("svg");
     var xy;
 
-    svg.on("click", function() {
+
+    svg.on("click", function (d){
+        xy = d3.mouse(this);
+           if(toggleSelected == true) {
+              //xy = d3.mouse(this)
+              var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
+              face_factory("face"+count, data, 100, 100)
+              toggleSelected = false;
+           } else {
+            //  xy = d3.mouse(this)
+              var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
+              face_factory("face"+count, data, 300, 100)
+              toggleSelected = true;
+           }
+    });
+
+  /*  svg.on("click", function() {
         xy = d3.mouse(this)
+        console.log(xy);
         var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
         face_factory("face"+count, data, 100, 100)
-    })
 
-    //var r = 20 + Math.random() * 50;
-    //var r = 70;
-    //var data = d3.range(10).map(Math.random)
-    /*var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() };
-    face_factory("face"+count, data, xy[0], xy[1]);*/
+    });*/
+
+
 };
 
 
 
-count = 0
+/*count = 0
 function clickypie2()
 {
     count += 1;
@@ -133,15 +147,23 @@ function clickypie2()
     var svg = d3.select("svg");
     var xy;
 
+    svg.on("click", function (d){
+           if(toggleSelected == true) {
+              xy = d3.mouse(this)
+              var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
+              face_factory("face"+count, data, 100, 100)
+           } else {
+              xy = d3.mouse(this)
+              var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
+              face_factory("face"+count, data, 300, 100)
+           }
+         });
+
     svg.on("click", function() {
         xy = d3.mouse(this)
         var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
-        face_factory("face"+count, data, 300, 100);
+        face_factory("face"+count, data, 300, 100)
+
     })
 
-    //var r = 20 + Math.random() * 50;
-    //var r = 70;
-    //var data = d3.range(10).map(Math.random)
-    /*var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() };
-    face_factory("face"+count, data, xy[0], xy[1]);*/
-};
+};*/
