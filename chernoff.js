@@ -104,7 +104,15 @@ count = 0
 function clickypie()
 {
     count += 1;
-    var xy = d3.svg.mouse(this);
+
+    var svg = d3.select("svg");
+    var xy; //Tentar gerar um valor xy dentro da função de baixo para ser usado em cima.
+
+    svg.on("click", function() {
+        d3.mouse(this)
+    })
+
+    console.log('lol', xy)
     //var r = 20 + Math.random() * 50;
     //var r = 70;
     //var data = d3.range(10).map(Math.random)

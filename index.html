@@ -2,7 +2,6 @@
 <meta charset='utf-8'>
 <html>
   <head>
-    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     <script src="https://d3js.org/d3.v3.js"></script>
     <script src="https://d3js.org/topojson.v1.js"></script>
     <script src="https://rawgithub.com/markmarkoh/datamaps/master/dist/datamaps.none.min.js"></script>
@@ -17,14 +16,21 @@
 
     <div id="container" style="position: relative; width: 400px; height: 600px; float: left"></div>
 
+    <script type='text/javascript' src='chernoff.js'></script>
    <script>
         var map = new Datamap({
           element: document.getElementById('container'),
           geographyConfig: {
             dataJson: 'https://rawgit.com/markmarkoh/datamaps/master/src/js/data/prt.json'
           },
+          done: function(datamap) {
+            datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
+                console.log(geography.properties.name)
+                clickypie()
+            });
+          },
           scope: 'prt',
-          setProjection: function(element, options) {
+         setProjection: function(element, options) {
                           var projection, path;
                           projection = d3.geo.mercator()
                               .center([-8.80, 38.45])
@@ -34,10 +40,11 @@
                             return {path: path, projection: projection};
                           }
 
-        });
+          });
     </script>
 
-    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.js?2.3.0"></script>
-    <script type='text/javascript' src='chernoff.js'></script>
+
+
+
   </body>
 </html>
