@@ -5,7 +5,7 @@
     <script src="https://d3js.org/d3.v3.js"></script>
     <script src="https://d3js.org/topojson.v1.js"></script>
     <script src="https://rawgithub.com/markmarkoh/datamaps/master/dist/datamaps.none.min.js"></script>
-    <script src="https://rawgithub.com/markmarkoh/datamaps/master/dist/datamaps.prt.js"></script>
+    <script src='prt.js'></script>
 
     <link rel='stylesheet' href='style.css'>
   </head>
@@ -21,7 +21,7 @@
         var map = new Datamap({
           element: document.getElementById('container'),
           geographyConfig: {
-            dataJson: 'https://rawgit.com/markmarkoh/datamaps/master/src/js/data/prt.json'
+            dataJson: d3.json('prt.json')
           },
           done: function(datamap) {
             datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
