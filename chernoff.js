@@ -1,18 +1,16 @@
 
 //setup svg canvas
-d3.select("body")
+/*d3.select("body")
     .append("svg:svg")
         .attr("width", 400)
         .attr("height", 200)
         .attr("id", "charts")
-        //.on("click", clickypie)
         .append("svg:rect")
             .attr("width", "100%")
             .attr("height", "100%")
-            .attr("stroke", "#000")
-            .attr("stroke-width", 3)
-            .attr("fill", "none")
-
+            .attr("stroke", "white")
+            .attr("stroke-width", 1)
+            .attr("fill", "none") */
 
 
 function face_factory(classname, data, x, y)
@@ -114,7 +112,17 @@ function clickypie()
     svg.on("click", function (d){
         xy = d3.mouse(this);
            if(toggleSelected == true) {
-              //xy = d3.mouse(this)
+             d3.select("body")
+                 .append("svg:svg")
+                     .attr("width", 400)
+                     .attr("height", 200)
+                     .attr("id", "charts")
+                     .append("svg:rect")
+                         .attr("width", "100%")
+                         .attr("height", "100%")
+                         .attr("stroke", "white")
+                         .attr("stroke-width", 1)
+                         .attr("fill", "none")
               var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
               face_factory("face"+count, data, 100, 100)
               toggleSelected = false;
@@ -123,47 +131,8 @@ function clickypie()
               var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
               face_factory("face"+count, data, 300, 100)
               toggleSelected = true;
+
            }
     });
 
-  /*  svg.on("click", function() {
-        xy = d3.mouse(this)
-        console.log(xy);
-        var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
-        face_factory("face"+count, data, 100, 100)
-
-    });*/
-
-
 };
-
-
-
-/*count = 0
-function clickypie2()
-{
-    count += 1;
-
-    var svg = d3.select("svg");
-    var xy;
-
-    svg.on("click", function (d){
-           if(toggleSelected == true) {
-              xy = d3.mouse(this)
-              var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
-              face_factory("face"+count, data, 100, 100)
-           } else {
-              xy = d3.mouse(this)
-              var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
-              face_factory("face"+count, data, 300, 100)
-           }
-         });
-
-    svg.on("click", function() {
-        xy = d3.mouse(this)
-        var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
-        face_factory("face"+count, data, 300, 100)
-
-    })
-
-};*/
