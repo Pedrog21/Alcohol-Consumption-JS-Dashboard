@@ -112,20 +112,22 @@ function clickypie()
     svg.on("click", function (d){
         xy = d3.mouse(this);
            if(toggleSelected == true) {
-             d3.select("body")
-                 .append("svg:svg")
-                     .attr("width", 400)
-                     .attr("height", 200)
-                     .attr("id", "charts")
-                     .append("svg:rect")
-                         .attr("width", "100%")
-                         .attr("height", "100%")
-                         .attr("stroke", "white")
-                         .attr("stroke-width", 1)
-                         .attr("fill", "none")
+                 d3.select("#charts").remove()
+                 d3.select("body")
+                         .append("svg:svg")
+                             .attr("width", 400)
+                             .attr("height", 200)
+                             .attr("id", "charts")
+                             .append("svg:rect")
+                                 .attr("width", "100%")
+                                 .attr("height", "100%")
+                                 .attr("stroke", "white")
+                                 .attr("stroke-width", 1)
+                                 .attr("fill", "white")
               var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
               face_factory("face"+count, data, 100, 100)
               toggleSelected = false;
+
            } else {
             //  xy = d3.mouse(this)
               var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
