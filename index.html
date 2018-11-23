@@ -26,7 +26,25 @@
           done: function(datamap) {
             datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
                 console.log(geography.properties.name)
-                clickypie();
+                if(geography.properties.name == 'Norte'){
+                  clickypieNorte();
+                }
+                else if(geography.properties.name == 'Centro'){
+                  clickypieCentro();
+                }
+                else if(geography.properties.name == 'Alentejo'){
+                  clickypieAlentejo();
+                }
+                else if(geography.properties.name == 'Algarve'){
+                  clickypieAlgarve();
+                }
+                else if(geography.properties.name == 'Lisboa'){
+                  clickypieLisboa();
+                }
+                else {
+                  console.log("nenhuma regiao selecionada")
+                }
+              //clickypie();
             });
 
           },

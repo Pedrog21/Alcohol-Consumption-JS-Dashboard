@@ -1,0 +1,16 @@
+{
+  "keys" : [
+    "variable",
+		"Gdp",
+		"Sport",
+		"Failures",
+		"Age",
+	],
+	"values" : [
+  {
+    "Gdp": 15,
+    "Sport": 3,
+    "Failures": 2,
+    "Age": 16,
+  }
+]

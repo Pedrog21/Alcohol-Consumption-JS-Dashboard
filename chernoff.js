@@ -101,7 +101,7 @@ function face_factory(classname, data, x, y)
 
 var toggleSelected = true;
 count = 0
-function clickypie()
+function clickypieNorte()
 {
     count += 1;
 
@@ -124,13 +124,167 @@ function clickypie()
                                  .attr("stroke", "white")
                                  .attr("stroke-width", 1)
                                  .attr("fill", "white")
-              var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
+              var data = { "x":0, "y":0.33, "z":0, "w":0.67 }
               face_factory("face"+count, data, 100, 100)
               toggleSelected = false;
 
            } else {
             //  xy = d3.mouse(this)
-              var data = { "x":Math.random(), "y":Math.random(), "z":Math.random(), "w":Math.random() }
+              var data = { "x":0, "y":0.33, "z":0, "w":0.67 }
+              face_factory("face"+count, data, 300, 100)
+              toggleSelected = true;
+
+           }
+    });
+
+};
+
+
+
+function clickypieCentro()
+{
+    count += 1;
+
+    var svg = d3.select("svg");
+    var xy;
+
+
+    svg.on("click", function (d){
+        xy = d3.mouse(this);
+           if(toggleSelected == true) {
+                 d3.select("#charts").remove()
+                 d3.select("body")
+                         .append("svg:svg")
+                             .attr("width", 400)
+                             .attr("height", 200)
+                             .attr("id", "charts")
+                             .append("svg:rect")
+                                 .attr("width", "100%")
+                                 .attr("height", "100%")
+                                 .attr("stroke", "white")
+                                 .attr("stroke-width", 1)
+                                 .attr("fill", "white")
+              var data = { "x":0.13, "y":0, "z":0.33, "w":0.67 }
+              face_factory("face"+count, data, 100, 100)
+              toggleSelected = false;
+
+           } else {
+            //  xy = d3.mouse(this)
+              var data = { "x":0.13, "y":0, "z":0.33, "w":0.67 }
+              face_factory("face"+count, data, 300, 100)
+              toggleSelected = true;
+
+           }
+    });
+
+};
+
+
+function clickypieAlgarve()
+{
+    count += 1;
+
+    var svg = d3.select("svg");
+    var xy;
+
+
+    svg.on("click", function (d){
+        xy = d3.mouse(this);
+           if(toggleSelected == true) {
+                 d3.select("#charts").remove()
+                 d3.select("body")
+                         .append("svg:svg")
+                             .attr("width", 400)
+                             .attr("height", 200)
+                             .attr("id", "charts")
+                             .append("svg:rect")
+                                 .attr("width", "100%")
+                                 .attr("height", "100%")
+                                 .attr("stroke", "white")
+                                 .attr("stroke-width", 1)
+                                 .attr("fill", "white")
+              var data = { "x":0.5, "y":0.33, "z":1, "w":0.33 }
+              face_factory("face"+count, data, 100, 100)
+              toggleSelected = false;
+
+           } else {
+            //  xy = d3.mouse(this)
+              var data = { "x":0.5, "y":0.33, "z":1, "w":0.33 }
+              face_factory("face"+count, data, 300, 100)
+              toggleSelected = true;
+
+           }
+    });
+
+};
+
+function clickypieAlentejo()
+{
+    count += 1;
+
+    var svg = d3.select("svg");
+    var xy;
+
+
+    svg.on("click", function (d){
+        xy = d3.mouse(this);
+           if(toggleSelected == true) {
+                 d3.select("#charts").remove()
+                 d3.select("body")
+                         .append("svg:svg")
+                             .attr("width", 400)
+                             .attr("height", 200)
+                             .attr("id", "charts")
+                             .append("svg:rect")
+                                 .attr("width", "100%")
+                                 .attr("height", "100%")
+                                 .attr("stroke", "white")
+                                 .attr("stroke-width", 1)
+                                 .attr("fill", "white")
+              var data = { "x":0.25, "y":0, "z":0.67, "w":1 }
+              face_factory("face"+count, data, 100, 100)
+              toggleSelected = false;
+
+           } else {
+            //  xy = d3.mouse(this)
+              var data = { "x":0.25, "y":0, "z":0.67, "w":1 }
+              face_factory("face"+count, data, 300, 100)
+              toggleSelected = true;
+
+           }
+    });
+
+};
+function clickypieLisboa()
+{
+    count += 1;
+
+    var svg = d3.select("svg");
+    var xy;
+
+
+    svg.on("click", function (d){
+        xy = d3.mouse(this);
+           if(toggleSelected == true) {
+                 d3.select("#charts").remove()
+                 d3.select("body")
+                         .append("svg:svg")
+                             .attr("width", 400)
+                             .attr("height", 200)
+                             .attr("id", "charts")
+                             .append("svg:rect")
+                                 .attr("width", "100%")
+                                 .attr("height", "100%")
+                                 .attr("stroke", "white")
+                                 .attr("stroke-width", 1)
+                                 .attr("fill", "white")
+              var data = { "x":1, "y":0, "z":0.67, "w":0.33 }
+              face_factory("face"+count, data, 100, 100)
+              toggleSelected = false;
+
+           } else {
+            //  xy = d3.mouse(this)
+              var data = { "x":1, "y":0, "z":0.67, "w":0.33 }
               face_factory("face"+count, data, 300, 100)
               toggleSelected = true;
 
