@@ -11,7 +11,6 @@
             .attr("stroke", "white")
             .attr("stroke-width", 1)
             .attr("fill", "none") */
-element: document.getElementById("chernoff")
 
 function face_factory(classname, data, x, y)
 {
