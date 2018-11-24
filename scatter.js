@@ -27,8 +27,8 @@ var yAxis = d3.svg.axis()
 
 var xCat = "Sport",
     yCat = "Alcohol",
-    rCat = "StartingAge",
-    colorCat = "Failures";
+    rCat = "Grades",
+    colorCat = "StartingAge";
 
 var labels = {
     "StartingAge": "Sarting Age",
@@ -36,14 +36,13 @@ var labels = {
     "Sport": "Sport"
 }
 
-d3.csv("dados.csv", function(data) {
+d3.csv("radarChart1.csv", function(data) {
     data.forEach(function(d) {
         d.Alcohol = +d.Alcohol;
         d.Grades = +d.Grades;
         d.Sport = +d.Sport;
         d.StartingAge = +d.StartingAge;
         d.Gdp = +d.Gdp;
-        d.Failures = d.Failures;
     });
 
     var xMax = d3.max(data, function(d) {
@@ -69,7 +68,8 @@ d3.csv("dados.csv", function(data) {
         .attr("class", "d3-tip")
         .offset([-10, 0])
         .html(function(d) {
-            return labels[xCat] + ": " + d[xCat] + "<br>" + labels[yCat] + ": " + d[yCat] + "<br>" + labels[rCat] + ": " + d[rCat];
+            //return labels[xCat] + ": " + d[xCat] + "<br>" + labels[yCat] + ": " + d[yCat] + "<br>" + labels[rCat] + ": " + d[rCat];
+            return "Gdp" + ": " + d["Gdp"] + "<br>" + "Grades" + ": " + d["Grades"]; //+ "<br>" + labels[rCat] + ": " + d[rCat];
         });
 
     var zoomBeh = d3.behavior.zoom()
@@ -174,31 +174,34 @@ d3.csv("dados.csv", function(data) {
         .style("opacity", 0.0)
         // filter out the ones we want to show and apply properties
         .filter(function(d) {
-            return d["Failures"] == type;
+            return d["StartingAge"] == type;
         })
             .style("opacity", 1) // need this line to unhide dots
         .style("stroke", "black")
         // apply stroke rule
         .style("fill", function(d) {
-            if (d.Gdp == 1) {
+            if (d.StartingAge == 1) {
                 return this
             } else {
                 return "white"
             };
         });
     });
+
     legend.append("text")
         .attr("x", width + 26)
         .attr("dy", ".65em")
         .text(function(d) {
           if(d==1)
-           return "No Failures"
+           return "Before 10 years old"
            if(d==2)
-           return "Failed one year"
+           return "Between 10-11 years old"
            if(d==3)
-           return "Failed two years"
+           return "Between 12-13 years old"
            if(d==4)
-           return "Failed more than two years"
+           return "Between 14-15 years old"
+           if(d==5)
+           return "More than 15 years old"
 
         });
     d3.select("button.reset").on("click", change)
@@ -252,7 +255,7 @@ d3.csv("dados.csv", function(data) {
         xCat = "StartingAge",
         yCat = "Alcohol",
         rCat = "Sport",
-        colorCat = "Failures";
+        colorCat = "Grades";
         xMax = d3.max(data, function(d) {
             return d[xCat];
         }) * 1.05,
