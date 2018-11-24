@@ -34,7 +34,7 @@ d3.select('head').append('title').text('Scatterplot')
    // Variables
    var body = d3.select('body')
    var margin = { top: 50, right: 50, bottom: 50, left: 50 }
-   var h = 400 - margin.top - margin.bottom
+   var h = 250 - margin.top - margin.bottom
    var w = 400 - margin.left - margin.right
    var formatPercent = d3.format('.2%')
    // Scales

@@ -1,0 +1,23 @@
+h3 {
+    margin-top: 10px;
+}
+.country-name {
+    margin: 0 !important;
+}
+
+.key-dot {
+    display: inline-block;
+    height: 20px;
+    margin-right: .5em;
+    width: 10px;
+}
+
+.legend {
+    margin-right:10px;
+}
+
+.queens { background: #2EFE2E;}
+.kings { background: #2EFEF7;}
+.bronx { background: #2E9AFE;}
+.coise { background: #0080FF; }
+.coise2 { background: #0431B4; }
