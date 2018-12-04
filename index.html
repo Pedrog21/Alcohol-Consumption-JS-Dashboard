@@ -202,28 +202,32 @@
 }
 
 </style>
-<svg width="960" height="500"></svg>
-<!--<div class="barchart"
+<!--<svg width="960" height="500"></svg>-->
+<div id="barchart"
   style="position: absolute;
   top: 400px;
-  right: 400px;
+  right: 500px;
   width: 500px;
-  height: 300px;
-  border: 3px solid #FF0000;" ></div>-->
+  height: 200px;" ></div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
-//var divElem = d3.select("barchart");
 
-var svg = d3.select("svg")
-    margin = {top: 20, right: 20, bottom: 20, left: 40},
+
+var svg = d3.select("#barchart")
+    .append("svg")
+      .attr("width", 900)
+      .attr("height", 460)
+    .append("g")
+      .attr("transform", "translate(50,30)");
+  /*  margin = {top: 20, right: 20, bottom: 20, left: 40},
     width = +svg.attr("width") - margin.left - margin.right,
-    height = +svg.attr("height") - margin.top - margin.bottom,
-    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    height = +barchart.attr("height") - margin.top - margin.bottom,
+    g = barchart.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");*/
 
 
 var x0 = d3.scaleBand()
-    .rangeRound([0, width])
+    .rangeRound([0, 750])
     .paddingInner(0.1);
 
 var x1 = d3.scaleBand()
@@ -233,7 +237,8 @@ var y = d3.scaleLinear()
     .rangeRound([height, 0]);
 
 var z = d3.scaleOrdinal()
-    .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+    //.range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+    .range(["#7CFC00", "#00FFFF", "#1E90FF", "#0000CD"]);
 
 d3.csv("ModeBarChart.csv", function(d, i, columns) {
   for (var i = 1, n = columns.length; i < n; ++i) d[columns[i]] = +d[columns[i]];
@@ -247,7 +252,7 @@ d3.csv("ModeBarChart.csv", function(d, i, columns) {
   x1.domain(keys).rangeRound([0, x0.bandwidth()]);
   y.domain([0, d3.max(data, function(d) { return d3.max(keys, function(key) { return d[key]; }); })]).nice();
 
-  g.append("g")
+  svg.append("g")
     .selectAll("g")
     .data(data)
     .enter().append("g")
@@ -259,14 +264,24 @@ d3.csv("ModeBarChart.csv", function(d, i, columns) {
       .attr("y", function(d) { return y(d.value); })
       .attr("width", x1.bandwidth())
       .attr("height", function(d) { return height - y(d.value); })
-      .attr("fill", function(d) { return z(d.key); });
+      .attr("fill", function(d) { return z(d.key); })
 
-  g.append("g")
+      .on("mouseover", function() { tooltip.style("display", null); })
+      .on("mouseout", function() { tooltip.style("display", "none"); })
+      .on("mousemove", function(d) {
+        var xPosition = d3.mouse(this)[0] - 15;
+        var yPosition = d3.mouse(this)[1] - 25;
+        tooltip.attr("transform", "translate(" + xPosition + "," + yPosition + ")");
+        tooltip.select("text").text(d.Alcohol);
+ });
+
+
+  svg.append("g")
       .attr("class", "axis")
       .attr("transform", "translate(0," + height + ")")
       .call(d3.axisBottom(x0));
 
-  g.append("g")
+  svg.append("g")
       .attr("class", "axis")
       .call(d3.axisLeft(y).ticks(null, "s"))
     .append("text")
@@ -278,7 +293,7 @@ d3.csv("ModeBarChart.csv", function(d, i, columns) {
       .attr("text-anchor", "start")
       .text("Labels");
 
-  var legend = g.append("g")
+  var legend = svg.append("g")
       .attr("font-family", "sans-serif")
       .attr("font-size", 10)
       .attr("text-anchor", "end")
@@ -288,17 +303,38 @@ d3.csv("ModeBarChart.csv", function(d, i, columns) {
       .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
 
   legend.append("rect")
-      .attr("x", width - 19)
+      .attr("x", 850 - 19)
       .attr("width", 19)
       .attr("height", 19)
       .attr("fill", z);
 
   legend.append("text")
-      .attr("x", width - 24)
+      .attr("x", 850 - 24)
       .attr("y", 9.5)
       .attr("dy", "0.32em")
       .text(function(d) { return d; });
+
+
+
+      var tooltip = svg.append("g")
+        .attr("class", "tooltip")
+        .style("display", "none");
+
+  tooltip.append("rect")
+    .attr("width", 30)
+    .attr("height", 20)
+    .attr("fill", "white")
+    .style("opacity", 0.5);
+
+  tooltip.append("text")
+    .attr("x", 15)
+    .attr("dy", "1.2em")
+    .style("text-anchor", "middle")
+    .attr("font-size", "12px")
+    .attr("font-weight", "bold");
 });
+
+
 
 </script>
 
