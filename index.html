@@ -20,13 +20,13 @@
                 height: 100%;
                 margin: 0;
                 padding: 0;
-                background-color: white;
+                background-color: dimgrey;
         font-family: 'Open Sans', sans-serif;
         font-size: 11px;
         font-weight: 300;
         fill: #242424;
         text-align: center;
-        text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+        /*text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;*/
         cursor: default;
       }
       .legend {
@@ -152,7 +152,7 @@
     //////////////////// Draw the Chart //////////////////////////
     //////////////////////////////////////////////////////////////
     var color = d3.scale.ordinal()
-      .range(["#EDC951","#CC333F","#00A0B0"]);
+      .range(["#00008B"]);
     var radarChartOptions = {
       w: width,
       h: height,
@@ -168,28 +168,6 @@
 </body>
 
 
-
-
-
-<!--SCATTER PLOT-->
-
-
-
-<!--<link rel="stylesheet" href="scatter.css" charset="utf-8">
-</head>
-<body>
-<div id="scatter" style="  position: absolute;
-  top: 50px;
-  right: 600px;
-  width: 400px;
-  height: 200px;
-/*border: 3px solid #73AD21;"></div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.7/d3-tip.js">	 </script>
-<button class="reset" >Reset Zoom</button>
-<button class="changexlos">X-Axis:Sarting Age</button>
-<script src="scatter.js" charset="utf-8"></script>
-</body>-->
 
 
 
@@ -210,7 +188,9 @@
   width: 500px;
   height: 200px;" ></div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js'></script>
 <script>
+
 
 
 
@@ -240,6 +220,8 @@ var z = d3.scaleOrdinal()
     //.range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
     .range(["#7CFC00", "#00FFFF", "#1E90FF", "#0000CD"]);
 
+
+
 d3.csv("ModeBarChart.csv", function(d, i, columns) {
   for (var i = 1, n = columns.length; i < n; ++i) d[columns[i]] = +d[columns[i]];
   return d;
@@ -251,6 +233,11 @@ d3.csv("ModeBarChart.csv", function(d, i, columns) {
   x0.domain(data.map(function(d) { return d.Alcohol; }));
   x1.domain(keys).rangeRound([0, x0.bandwidth()]);
   y.domain([0, d3.max(data, function(d) { return d3.max(keys, function(key) { return d[key]; }); })]).nice();
+
+//Tooltip
+  const tip = d3.tip().html(d=> d.value);
+  svg.call(tip)
+
 
   svg.append("g")
     .selectAll("g")
@@ -265,15 +252,10 @@ d3.csv("ModeBarChart.csv", function(d, i, columns) {
       .attr("width", x1.bandwidth())
       .attr("height", function(d) { return height - y(d.value); })
       .attr("fill", function(d) { return z(d.key); })
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide);
 
-      .on("mouseover", function() { tooltip.style("display", null); })
-      .on("mouseout", function() { tooltip.style("display", "none"); })
-      .on("mousemove", function(d) {
-        var xPosition = d3.mouse(this)[0] - 15;
-        var yPosition = d3.mouse(this)[1] - 25;
-        tooltip.attr("transform", "translate(" + xPosition + "," + yPosition + ")");
-        tooltip.select("text").text(d.Alcohol);
- });
+
 
 
   svg.append("g")
@@ -316,22 +298,6 @@ d3.csv("ModeBarChart.csv", function(d, i, columns) {
 
 
 
-      var tooltip = svg.append("g")
-        .attr("class", "tooltip")
-        .style("display", "none");
-
-  tooltip.append("rect")
-    .attr("width", 30)
-    .attr("height", 20)
-    .attr("fill", "white")
-    .style("opacity", 0.5);
-
-  tooltip.append("text")
-    .attr("x", 15)
-    .attr("dy", "1.2em")
-    .style("text-anchor", "middle")
-    .attr("font-size", "12px")
-    .attr("font-weight", "bold");
 });
 
 

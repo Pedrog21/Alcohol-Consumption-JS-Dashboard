@@ -42,9 +42,10 @@ label {
 
 #charts{
   position: absolute;
-  top: 50px;
+  top: 100px;
   right: 500px;
   width: 400px;
   height: 200px;
-  /*border: 3px solid #00ADFF;*/
+  background: red;
+  border: 3px solid red;
 }
