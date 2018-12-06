@@ -234,9 +234,12 @@ d3.csv("ModeBarChart.csv", function(d, i, columns) {
   x1.domain(keys).rangeRound([0, x0.bandwidth()]);
   y.domain([0, d3.max(data, function(d) { return d3.max(keys, function(key) { return d[key]; }); })]).nice();
 
+
 //Tooltip
   const tip = d3.tip().html(d=> d.value);
   svg.call(tip)
+
+
 
 
   svg.append("g")
@@ -247,6 +250,7 @@ d3.csv("ModeBarChart.csv", function(d, i, columns) {
     .selectAll("rect")
     .data(function(d) { return keys.map(function(key) { return {key: key, value: d[key]}; }); })
     .enter().append("rect")
+
       .attr("x", function(d) { return x1(d.key); })
       .attr("y", function(d) { return y(d.value); })
       .attr("width", x1.bandwidth())
@@ -256,12 +260,12 @@ d3.csv("ModeBarChart.csv", function(d, i, columns) {
       .on('mouseout', tip.hide);
 
 
-
-
   svg.append("g")
       .attr("class", "axis")
       .attr("transform", "translate(0," + height + ")")
       .call(d3.axisBottom(x0));
+
+
 
   svg.append("g")
       .attr("class", "axis")
@@ -275,6 +279,8 @@ d3.csv("ModeBarChart.csv", function(d, i, columns) {
       .attr("text-anchor", "start")
       .text("Labels");
 
+
+
   var legend = svg.append("g")
       .attr("font-family", "sans-serif")
       .attr("font-size", 10)
@@ -282,7 +288,8 @@ d3.csv("ModeBarChart.csv", function(d, i, columns) {
     .selectAll("g")
     .data(keys.slice().reverse())
     .enter().append("g")
-      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; })
+
 
   legend.append("rect")
       .attr("x", 850 - 19)
@@ -295,6 +302,8 @@ d3.csv("ModeBarChart.csv", function(d, i, columns) {
       .attr("y", 9.5)
       .attr("dy", "0.32em")
       .text(function(d) { return d; });
+
+
 
 
 

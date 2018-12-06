@@ -46,6 +46,5 @@ label {
   right: 500px;
   width: 400px;
   height: 200px;
-  background: red;
-  border: 3px solid red;
+  /*border: 3px solid dimgrey;*/
 }
