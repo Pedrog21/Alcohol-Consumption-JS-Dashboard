@@ -61,6 +61,113 @@
     /*border: 3px solid #73AD21;"></div>
 
     <script type='text/javascript' src='chernoff.js'></script>
+
+
+    <!--RADAR CHART-->
+
+      <div class="radarChart"  style="position: absolute;  top: 50px;
+        right: 50px;
+        width: 400px;
+        height: 400px;
+        /*border: 3px solid #00ADFF;"></div>
+
+      <script src="radarChart.js"></script>
+      <script>
+
+        //////////////////////////////////////////////////////////////
+        //////////////////////// Set-Up //////////////////////////////
+        //////////////////////////////////////////////////////////////
+        var margin = {top: 100, right: 100, bottom: 100, left: 100},
+          width = Math.min(400, window.innerWidth - 10) - margin.left - margin.right,
+          height = Math.min(width, window.innerHeight - margin.top - margin.bottom - 20);
+        //////////////////////////////////////////////////////////////
+        ////////////////////////// Data //////////////////////////////
+        //////////////////////////////////////////////////////////////
+        var data = [
+              [
+              {axis:"Alcohol",value:0},
+              {axis:"Mother's Habilitations",value:0},
+              {axis:"Father's Habilitations",value:0},
+              {axis:"Failures",value:0},
+              {axis:"Tobacco",value:0},
+              {axis:"Age",value:0}
+              ]
+            ];
+
+            var dataNorte = [
+                  [
+                  {axis:"Alcohol",value:1},
+                  {axis:"Mother's Habilitations",value:0.57},
+                  {axis:"Father's Habilitations",value:0.71},
+                  {axis:"Failures",value:0.33},
+                  {axis:"Tobacco",value:0.4},
+                  {axis:"Age",value:0.44}
+                  ]
+                ];
+
+                var dataCentro = [
+                      [
+                      {axis:"Alcohol",value:0.75},
+                      {axis:"Mother's Habilitations",value:0.43},
+                      {axis:"Father's Habilitations",value:0.57},
+                      {axis:"Failures",value:0.33},
+                      {axis:"Tobacco",value:0.2},
+                      {axis:"Age",value:0.44}
+                      ]
+                    ];
+
+                    var dataLisboa = [
+                          [
+                          {axis:"Alcohol",value:0.5},
+                          {axis:"Mother's Habilitations",value:0.71},
+                          {axis:"Father's Habilitations",value:0.71},
+                          {axis:"Failures",value:0.33},
+                          {axis:"Tobacco",value:0.4},
+                          {axis:"Age",value:0.33}
+                          ]
+                        ];
+
+                        var dataAlentejo = [
+                              [
+                              {axis:"Alcohol",value:0.5},
+                              {axis:"Mother's Habilitations",value:0.43},
+                              {axis:"Father's Habilitations",value:0.43},
+                              {axis:"Failures",value:0.66},
+                              {axis:"Tobacco",value:0.4},
+                              {axis:"Age",value:0.44}
+                              ]
+                            ];
+                            var dataAlgarve = [
+                                  [
+                                  {axis:"Alcohol",value:0.25},
+                                  {axis:"Mother's Habilitations",value:0.57},
+                                  {axis:"Father's Habilitations",value:0.57},
+                                  {axis:"Failures",value:0.66},
+                                  {axis:"Tobacco",value:0.2},
+                                  {axis:"Age",value:0.56}
+                                  ]
+                                ];
+        //////////////////////////////////////////////////////////////
+        //////////////////// Draw the Chart //////////////////////////
+        //////////////////////////////////////////////////////////////
+        var color = d3.scale.ordinal()
+          .range(["#00FFFF"]);
+        var radarChartOptions = {
+          w: width,
+          h: height,
+          margin: margin,
+          maxValue: 0.5,
+          levels: 5,
+          roundStrokes: true,
+          color: color
+        };
+        //Call function to draw the Radar chart
+
+        RadarChart(".radarChart", data, radarChartOptions);
+      </script>
+
+
+
    <script>
         var map = new Datamap({
           element: document.getElementById('container'),
@@ -72,18 +179,23 @@
                 console.log(geography.properties.name)
                 if(geography.properties.name == 'Norte'){
                   clickypieNorte();
+                  RadarChart(".radarChart", dataNorte, radarChartOptions);
                 }
                 else if(geography.properties.name == 'Centro'){
                   clickypieCentro();
+                  RadarChart(".radarChart", dataCentro, radarChartOptions);
                 }
                 else if(geography.properties.name == 'Alentejo'){
                   clickypieAlentejo();
+                  RadarChart(".radarChart", dataAlentejo, radarChartOptions);
                 }
                 else if(geography.properties.name == 'Algarve'){
                   clickypieAlgarve();
+                  RadarChart(".radarChart", dataAlgarve, radarChartOptions);
                 }
                 else if(geography.properties.name == 'Lisboa'){
                   clickypieLisboa();
+                  RadarChart(".radarChart", dataLisboa, radarChartOptions);
                 }
                 else {
                   console.log("nenhuma regiao selecionada")
@@ -118,53 +230,6 @@
    <div class="legend1"> <p class="country-name"><span class="key-dot coise2"></span>Almost Never Drinks</p> </div>
 </div>
 
-<!--RADAR CHART-->
-
-  <div class="radarChart"  style="position: absolute;  top: 50px;
-    right: 50px;
-    width: 400px;
-    height: 400px;
-    /*border: 3px solid #00ADFF;"></div>
-
-  <script src="radarChart.js"></script>
-  <script>
-    /* Radar chart design created by Nadieh Bremer - VisualCinnamon.com */
-    //////////////////////////////////////////////////////////////
-    //////////////////////// Set-Up //////////////////////////////
-    //////////////////////////////////////////////////////////////
-    var margin = {top: 100, right: 100, bottom: 100, left: 100},
-      width = Math.min(400, window.innerWidth - 10) - margin.left - margin.right,
-      height = Math.min(width, window.innerHeight - margin.top - margin.bottom - 20);
-    //////////////////////////////////////////////////////////////
-    ////////////////////////// Data //////////////////////////////
-    //////////////////////////////////////////////////////////////
-    var data = [
-          [//iPhone
-          {axis:"Alcohol",value:0.22},
-          {axis:"Mother's Habilitations",value:0.28},
-          {axis:"Father's Habilitations",value:0.29},
-          {axis:"Failures",value:0.17},
-          {axis:"Tobacco",value:0.22},
-          {axis:"Age",value:0.02}
-          ]
-        ];
-    //////////////////////////////////////////////////////////////
-    //////////////////// Draw the Chart //////////////////////////
-    //////////////////////////////////////////////////////////////
-    var color = d3.scale.ordinal()
-      .range(["#00008B"]);
-    var radarChartOptions = {
-      w: width,
-      h: height,
-      margin: margin,
-      maxValue: 0.5,
-      levels: 5,
-      roundStrokes: true,
-      color: color
-    };
-    //Call function to draw the Radar chart
-    RadarChart(".radarChart", data, radarChartOptions);
-  </script>
 </body>
 
 
