@@ -36,7 +36,7 @@ function face_factory(classname, data, x, y)
             .style("color","white")
             .style("visibility", "hidden")
             //.text("Eyes: " + data.z)
-            .text(function(){if (data.z >= 0.5) {return "Eyes: > 18 years old"} else {return "Eyes:  < 18 years old"}});
+            .text(function(){if (data.z >= 0.5) {return "Eyes: Starting Age > 18 y. o."} else {return "Eyes: Starting Age  < 18 y. o."}});
 
 
             var tooltiphead= d3.select("body")
