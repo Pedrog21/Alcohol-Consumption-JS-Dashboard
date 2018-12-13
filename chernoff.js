@@ -8,7 +8,7 @@
         .append("svg:rect")
             .attr("width", "100%")
             .attr("height", "100%")
-            .attr("stroke", "white")
+            .attr("stroke", "ghostwhite")
             .attr("stroke-width", 1)
             .attr("fill", "none") */
 
@@ -25,7 +25,7 @@ function face_factory(classname, data, x, y)
         .style("position", "absolute")
         .style("z-index", "10")
         .style("visibility", "hidden")
-        .style("color","white")
+        .style("color","black")
         //.text("Mouth: " + data.y);
         .text(function(){if (data.y >= 0.5) {return "Mouth: High number of Faillures"} else {return "Mouth: Low number of Faillures"}});
 
@@ -33,17 +33,17 @@ function face_factory(classname, data, x, y)
             .append("div")
             .style("position", "absolute")
             .style("z-index", "10")
-            .style("color","white")
+            .style("color","black")
             .style("visibility", "hidden")
             //.text("Eyes: " + data.z)
-            .text(function(){if (data.z >= 0.5) {return "Eyes: Starting Age > 18 y. o."} else {return "Eyes: Starting Age  < 18 y. o."}});
+            .text(function(){if (data.z >= 0.5) {return "Eyes: > 18 years old"} else {return "Eyes:  < 18 years old"}});
 
 
             var tooltiphead= d3.select("body")
                 .append("div")
                 .style("position", "absolute")
                 .style("z-index", "10")
-                .style("color","white")
+                .style("color","black")
                 .style("visibility", "hidden")
                 //.text("Head: " + data.x);
                 .text(function(){if (data.x >= 0.5) {return "Head: High Gdp"} else {return "Head: Low Gdp"}});
@@ -143,6 +143,18 @@ function face_factory(classname, data, x, y)
 
 }
 
+d3.select("body")
+        .append("svg:svg")
+            .attr("width", 400)
+            .attr("height", 200)
+            .attr("id", "charts")
+            .append("svg:rect")
+                .attr("width", "100%")
+                .attr("height", "100%")
+                .attr("stroke", "ghostwhite")
+                .attr("stroke-width", 1)
+                .attr("fill", "ghostwhite")
+
 var toggleSelected = true;
 count = 0
 function clickypieNorte()
@@ -165,9 +177,9 @@ function clickypieNorte()
                              .append("svg:rect")
                                  .attr("width", "100%")
                                  .attr("height", "100%")
-                                 .attr("stroke", "dimgrey")
+                                 .attr("stroke", "ghostwhite")
                                  .attr("stroke-width", 1)
-                                 .attr("fill", "dimgrey")
+                                 .attr("fill", "ghostwhite")
               var data = { "x":0, "y":0.33, "z":0, "w":0.67 }
               face_factory("face"+count, data, 100, 100)
               toggleSelected = false;
@@ -205,9 +217,9 @@ function clickypieCentro()
                              .append("svg:rect")
                                  .attr("width", "100%")
                                  .attr("height", "100%")
-                                 .attr("stroke", "dimgrey")
+                                 .attr("stroke", "ghostwhite")
                                  .attr("stroke-width", 1)
-                                 .attr("fill", "dimgrey")
+                                 .attr("fill", "ghostwhite")
               var data = { "x":0.13, "y":0, "z":0.33, "w":0.67 }
               face_factory("face"+count, data, 100, 100)
               toggleSelected = false;
@@ -244,9 +256,9 @@ function clickypieAlgarve()
                              .append("svg:rect")
                                  .attr("width", "100%")
                                  .attr("height", "100%")
-                                 .attr("stroke", "dimgrey")
+                                 .attr("stroke", "ghostwhite")
                                  .attr("stroke-width", 1)
-                                 .attr("fill", "dimgrey")
+                                 .attr("fill", "ghostwhite")
               var data = { "x":0.5, "y":0.33, "z":1, "w":0.33 }
               face_factory("face"+count, data, 100, 100)
               toggleSelected = false;
@@ -282,9 +294,9 @@ function clickypieAlentejo()
                              .append("svg:rect")
                                  .attr("width", "100%")
                                  .attr("height", "100%")
-                                 .attr("stroke", "dimgrey")
+                                 .attr("stroke", "ghostwhite")
                                  .attr("stroke-width", 1)
-                                 .attr("fill", "dimgrey")
+                                 .attr("fill", "ghostwhite")
               var data = { "x":0.25, "y":0, "z":0.67, "w":1 }
               face_factory("face"+count, data, 100, 100)
               toggleSelected = false;
@@ -319,9 +331,9 @@ function clickypieLisboa()
                              .append("svg:rect")
                                  .attr("width", "100%")
                                  .attr("height", "100%")
-                                 .attr("stroke", "dimgrey")
+                                 .attr("stroke", "ghostwhite")
                                  .attr("stroke-width", 1)
-                                 .attr("fill", "dimgrey")
+                                 .attr("fill", "ghostwhite")
               var data = { "x":1, "y":0, "z":0.67, "w":0.33 }
               face_factory("face"+count, data, 100, 100)
               toggleSelected = false;
