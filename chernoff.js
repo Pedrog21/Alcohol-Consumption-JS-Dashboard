@@ -49,7 +49,7 @@ function face_factory(classname, data, x, y)
                 .style("visibility", "hidden")
                 .style("font-weight","bold")
                 //.text("Head: " + data.x);
-                .text(function(){if (data.x >= 0.5) {return "Head: High Gdp"} else {return "Head: Low Gdp"}});
+                .text(function(){if (data.x >= 0.5) {return "Head: High Gdp // Greener Face <-> Higher Sport Pratice"} else {return "Head: Low Gdp // Greener Face <-> Higher Sport Pratice"}});
 
 
     var r = 20 + data.w * 50;

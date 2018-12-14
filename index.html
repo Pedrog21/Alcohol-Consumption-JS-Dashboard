@@ -115,11 +115,12 @@
         font-weight: 300;
         fill: #242424;
         text-align: center;
+        margin: auto;
         /*text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;*/
         cursor: default;
       }
       .legend {
-        font-family: 'Raleway', sans-serif;
+        font-family: 'Open Sans', sans-serif;
         fill: #333333;
       }
       .tooltip {
@@ -402,11 +403,11 @@
           box-sizing: border-box;
       }
       body {
-          font-family: Arial, Helvetica, sans-serif;
+          font-family: 'Open Sans' sans-serif;
           margin: 0;
           padding: 0 0 50px;
           color: #333;
-          font-size: 14px;
+          font-size: 13px;
       }
       p {
           margin: 0;
@@ -498,6 +499,7 @@ div.tooltip {
     width: 60px;
     height: 28px;
     padding: 2px;
+    font-family: 'Open Sans';
     font: 12px sans-serif;
     background: darkorange;
     border: 0px;
@@ -621,9 +623,9 @@ var aux = 0;
 
 
   var legend = svg.append("g")
-      .attr("font-family", 'Open Sans')
-      .attr("font-family", 'sans-serif')
-      .attr("font-size", 15)
+      .attr("font-family", "Open Sans")
+      .attr("font-family", "sans-serif")
+      .attr("font-size", 12)
       .attr("text-anchor", "end")
     .selectAll("g")
     .data(keys.slice().reverse())
@@ -767,9 +769,20 @@ var aux = 0;
               })();
           </script>
 
-<!-- Function of filter -->
-<script>
-</script>
+<!-- Button -->
 
+
+
+
+<div id="option"  style="position: absolute;  top: 420px;
+  right: 50px;
+  width: 400px;
+  height: 150px;
+  /*border: 3px solid #FF0000;">
+    <input name="updateButton"
+           type="button"
+           value="Back to the Whole Country"
+           onclick= "location.reload()" />
+</div>
 
 </html>

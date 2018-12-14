@@ -119,7 +119,9 @@ function RadarChart(id, data, options) {
 	//Append the labels at each axis
 	axis.append("text")
 		.attr("class", "legend")
-		.style("font-size", "15px")
+		.attr("font-family", "Open Sans")
+		.attr("font-family", "sans-serif")
+		.style("font-size", "13px")
 		.attr("text-anchor", "middle")
 		.attr("dy", "0.35em")
 		.attr("x", function(d, i){ return rScale(maxValue * cfg.labelFactor) * Math.cos(angleSlice*i - Math.PI/2); })
